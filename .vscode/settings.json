@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5257481a-5da3-45a3-9f74-e174cdf56562/resourceGroups/skyotGroup/providers/Microsoft.Web/sites/FibonnaciServer",
+    "appService.deploySubpath": "."
+}
